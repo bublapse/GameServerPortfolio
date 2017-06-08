@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TryCook.aspx.cs" Inherits="TryCook" %>
